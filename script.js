@@ -6,7 +6,7 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "I LOVE YOU SO MUCH BABY ANYA KO ";
+const greetingText = "I LOVE YOU SO MUCH BABY ";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
